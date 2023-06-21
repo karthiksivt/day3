@@ -1,0 +1,23 @@
+.head3{
+    color: blueviolet;
+}
+
+.para1{
+    color: brown;
+}
+
+.box1{
+    border:1px solid grey;
+    border-radius: 25px;
+    
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 300px;
+    margin: 10px auto;
+}
+
+.img-1{
+    width: 100%;
+    border-radius: 30px;
+    padding-top: 15px;
+}
